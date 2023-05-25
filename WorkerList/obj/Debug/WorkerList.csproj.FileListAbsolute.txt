@@ -1,0 +1,16 @@
+C:\Users\babic\source\repos\WorkerList\WorkerList\bin\Debug\WorkerList.exe.config
+C:\Users\babic\source\repos\WorkerList\WorkerList\bin\Debug\WorkerList.exe
+C:\Users\babic\source\repos\WorkerList\WorkerList\bin\Debug\WorkerList.pdb
+C:\Users\babic\source\repos\WorkerList\WorkerList\obj\Debug\WorkerList.csproj.AssemblyReference.cache
+C:\Users\babic\source\repos\WorkerList\WorkerList\obj\Debug\WorkerList.csproj.SuggestedBindingRedirects.cache
+C:\Users\babic\source\repos\WorkerList\WorkerList\obj\Debug\MainWindow.g.cs
+C:\Users\babic\source\repos\WorkerList\WorkerList\obj\Debug\App.g.cs
+C:\Users\babic\source\repos\WorkerList\WorkerList\obj\Debug\WorkerList_MarkupCompile.cache
+C:\Users\babic\source\repos\WorkerList\WorkerList\obj\Debug\WorkerList_MarkupCompile.lref
+C:\Users\babic\source\repos\WorkerList\WorkerList\obj\Debug\MainWindow.baml
+C:\Users\babic\source\repos\WorkerList\WorkerList\obj\Debug\WorkerList.g.resources
+C:\Users\babic\source\repos\WorkerList\WorkerList\obj\Debug\WorkerList.Properties.Resources.resources
+C:\Users\babic\source\repos\WorkerList\WorkerList\obj\Debug\WorkerList.csproj.GenerateResource.cache
+C:\Users\babic\source\repos\WorkerList\WorkerList\obj\Debug\WorkerList.csproj.CoreCompileInputs.cache
+C:\Users\babic\source\repos\WorkerList\WorkerList\obj\Debug\WorkerList.exe
+C:\Users\babic\source\repos\WorkerList\WorkerList\obj\Debug\WorkerList.pdb
